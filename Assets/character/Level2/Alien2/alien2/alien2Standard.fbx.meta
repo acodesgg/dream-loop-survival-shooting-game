@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 6d2c9e9018469c04abd32cc7fdd99149
+timeCreated: 1530630799
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: alien
+    100002: //RootNode
+    100004: CINEMA_4D_Editor
+    100006: Joint_1
+    100008: Joint_2
+    100010: Joint_3
+    100012: Joint_4
+    100014: Joint_5
+    100016: Joint_6
+    100018: mixamorig_Head
+    100020: mixamorig_HeadTop_End
+    100022: mixamorig_Hips
+    100024: mixamorig_LeftArm
+    100026: mixamorig_LeftFoot
+    100028: mixamorig_LeftForeArm
+    100030: mixamorig_LeftHand
+    100032: mixamorig_LeftHandIndex1
+    100034: mixamorig_LeftHandIndex2
+    100036: mixamorig_LeftHandIndex3
+    100038: mixamorig_LeftHandIndex4
+    100040: mixamorig_LeftLeg
+    100042: mixamorig_LeftShoulder
+    100044: mixamorig_LeftToe_End
+    100046: mixamorig_LeftToeBase
+    100048: mixamorig_LeftUpLeg
+    100050: mixamorig_Neck
+    100052: mixamorig_RightArm
+    100054: mixamorig_RightFoot
+    100056: mixamorig_RightForeArm
+    100058: mixamorig_RightHand
+    100060: mixamorig_RightHandIndex1
+    100062: mixamorig_RightHandIndex2
+    100064: mixamorig_RightHandIndex3
+    100066: mixamorig_RightHandIndex4
+    100068: mixamorig_RightLeg
+    100070: mixamorig_RightShoulder
+    100072: mixamorig_RightToe_End
+    100074: mixamorig_RightToeBase
+    100076: mixamorig_RightUpLeg
+    100078: mixamorig_Spine
+    100080: mixamorig_Spine1
+    100082: mixamorig_Spine2
+    400000: alien
+    400002: //RootNode
+    400004: CINEMA_4D_Editor
+    400006: Joint_1
+    400008: Joint_2
+    400010: Joint_3
+    400012: Joint_4
+    400014: Joint_5
+    400016: Joint_6
+    400018: mixamorig_Head
+    400020: mixamorig_HeadTop_End
+    400022: mixamorig_Hips
+    400024: mixamorig_LeftArm
+    400026: mixamorig_LeftFoot
+    400028: mixamorig_LeftForeArm
+    400030: mixamorig_LeftHand
+    400032: mixamorig_LeftHandIndex1
+    400034: mixamorig_LeftHandIndex2
+    400036: mixamorig_LeftHandIndex3
+    400038: mixamorig_LeftHandIndex4
+    400040: mixamorig_LeftLeg
+    400042: mixamorig_LeftShoulder
+    400044: mixamorig_LeftToe_End
+    400046: mixamorig_LeftToeBase
+    400048: mixamorig_LeftUpLeg
+    400050: mixamorig_Neck
+    400052: mixamorig_RightArm
+    400054: mixamorig_RightFoot
+    400056: mixamorig_RightForeArm
+    400058: mixamorig_RightHand
+    400060: mixamorig_RightHandIndex1
+    400062: mixamorig_RightHandIndex2
+    400064: mixamorig_RightHandIndex3
+    400066: mixamorig_RightHandIndex4
+    400068: mixamorig_RightLeg
+    400070: mixamorig_RightShoulder
+    400072: mixamorig_RightToe_End
+    400074: mixamorig_RightToeBase
+    400076: mixamorig_RightUpLeg
+    400078: mixamorig_Spine
+    400080: mixamorig_Spine1
+    400082: mixamorig_Spine2
+    2000000: CINEMA_4D_Editor
+    4300000: alien
+    9500000: //RootNode
+    13700000: alien
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 2620a941dc9d30d47bbbb6ff85be2b65
+timeCreated: 1533913352
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: //RootNode
+    100004: E
+    100006: Joint_1
+    100008: Joint_1_2
+    100010: Joint_1_3
+    100012: Joint_1_4
+    100014: Joint_1_5
+    100016: Joint_1_6
+    100018: Joint_1_7
+    100020: Joint_1_8
+    100022: Joint_1_9
+    100024: Joint_2
+    100026: Joint_2_2
+    100028: Joint_2_3
+    100030: Joint_2_4
+    100032: Joint_2_5
+    100034: Joint_2_6
+    100036: Joint_2_7
+    100038: Joint_2_8
+    100040: Joint_2_9
+    100042: Joint_3
+    100044: Joint_3_2
+    100046: Joint_3_3
+    100048: Joint_3_4
+    100050: Joint_3_5
+    100052: Joint_3_6
+    100054: Joint_3_7
+    100056: Joint_3_8
+    100058: Joint_4
+    100060: Joint_4_2
+    100062: Joint_4_3
+    100064: Joint_4_4
+    100066: Joint_4_5
+    100068: Joint_4_6
+    100070: Joint_4_7
+    100072: Joint_4_8
+    100074: mixamorig_Head
+    100076: mixamorig_HeadTop_End
+    100078: mixamorig_Hips
+    100080: mixamorig_LeftArm
+    100082: mixamorig_LeftForeArm
+    100084: mixamorig_LeftHand
+    100086: mixamorig_LeftHandIndex1
+    100088: mixamorig_LeftHandIndex2
+    100090: mixamorig_LeftHandIndex3
+    100092: mixamorig_LeftHandIndex4
+    100094: mixamorig_LeftShoulder
+    100096: mixamorig_Neck
+    100098: mixamorig_RightArm
+    100100: mixamorig_RightForeArm
+    100102: mixamorig_RightHand
+    100104: mixamorig_RightHandIndex1
+    100106: mixamorig_RightHandIndex2
+    100108: mixamorig_RightHandIndex3
+    100110: mixamorig_RightHandIndex4
+    100112: mixamorig_RightShoulder
+    100114: mixamorig_Spine
+    100116: mixamorig_Spine1
+    100118: mixamorig_Spine2
+    100120: N
+    100122: NE
+    100124: NW
+    100126: S
+    100128: SE
+    100130: SW
+    100132: W
+    400000: CINEMA_4D_Editor
+    400002: //RootNode
+    400004: E
+    400006: Joint_1
+    400008: Joint_1_2
+    400010: Joint_1_3
+    400012: Joint_1_4
+    400014: Joint_1_5
+    400016: Joint_1_6
+    400018: Joint_1_7
+    400020: Joint_1_8
+    400022: Joint_1_9
+    400024: Joint_2
+    400026: Joint_2_2
+    400028: Joint_2_3
+    400030: Joint_2_4
+    400032: Joint_2_5
+    400034: Joint_2_6
+    400036: Joint_2_7
+    400038: Joint_2_8
+    400040: Joint_2_9
+    400042: Joint_3
+    400044: Joint_3_2
+    400046: Joint_3_3
+    400048: Joint_3_4
+    400050: Joint_3_5
+    400052: Joint_3_6
+    400054: Joint_3_7
+    400056: Joint_3_8
+    400058: Joint_4
+    400060: Joint_4_2
+    400062: Joint_4_3
+    400064: Joint_4_4
+    400066: Joint_4_5
+    400068: Joint_4_6
+    400070: Joint_4_7
+    400072: Joint_4_8
+    400074: mixamorig_Head
+    400076: mixamorig_HeadTop_End
+    400078: mixamorig_Hips
+    400080: mixamorig_LeftArm
+    400082: mixamorig_LeftForeArm
+    400084: mixamorig_LeftHand
+    400086: mixamorig_LeftHandIndex1
+    400088: mixamorig_LeftHandIndex2
+    400090: mixamorig_LeftHandIndex3
+    400092: mixamorig_LeftHandIndex4
+    400094: mixamorig_LeftShoulder
+    400096: mixamorig_Neck
+    400098: mixamorig_RightArm
+    400100: mixamorig_RightForeArm
+    400102: mixamorig_RightHand
+    400104: mixamorig_RightHandIndex1
+    400106: mixamorig_RightHandIndex2
+    400108: mixamorig_RightHandIndex3
+    400110: mixamorig_RightHandIndex4
+    400112: mixamorig_RightShoulder
+    400114: mixamorig_Spine
+    400116: mixamorig_Spine1
+    400118: mixamorig_Spine2
+    400120: N
+    400122: NE
+    400124: NW
+    400126: S
+    400128: SE
+    400130: SW
+    400132: W
+    2000000: CINEMA_4D_Editor
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

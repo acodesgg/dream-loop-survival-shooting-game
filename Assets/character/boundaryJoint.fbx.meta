@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 4f05ade301e84f84ea43bad6059d7fe2
+timeCreated: 1530692740
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CINEMA_4D_Editor
+    100004: door
+    100006: door_2
+    100008: door_3
+    100010: door_4
+    100012: door_5
+    100014: door_5_2
+    100016: Joint
+    100018: Joint_1
+    100020: Joint_1_2
+    100022: Joint_2
+    100024: Joint_2_2
+    100026: Joint_2_3
+    100028: l_side
+    100030: l_side_2
+    100032: Main
+    100034: poilar
+    100036: poilar_2
+    100038: poilar_small_1
+    100040: r_side
+    100042: r_side_2
+    100044: Root
+    100046: Root_1
+    100048: Sphere
+    100050: Sphere_2
+    100052: wall
+    100054: wall_2
+    400000: //RootNode
+    400002: CINEMA_4D_Editor
+    400004: door
+    400006: door_2
+    400008: door_3
+    400010: door_4
+    400012: door_5
+    400014: door_5_2
+    400016: Joint
+    400018: Joint_1
+    400020: Joint_1_2
+    400022: Joint_2
+    400024: Joint_2_2
+    400026: Joint_2_3
+    400028: l_side
+    400030: l_side_2
+    400032: Main
+    400034: poilar
+    400036: poilar_2
+    400038: poilar_small_1
+    400040: r_side
+    400042: r_side_2
+    400044: Root
+    400046: Root_1
+    400048: Sphere
+    400050: Sphere_2
+    400052: wall
+    400054: wall_2
+    2000000: CINEMA_4D_Editor
+    2300000: door
+    2300002: door_4
+    2300004: door_5_2
+    2300006: poilar
+    2300008: poilar_2
+    2300010: poilar_small_1
+    2300012: Sphere
+    2300014: Sphere_2
+    2300016: wall
+    2300018: wall_2
+    3300000: door
+    3300002: door_4
+    3300004: door_5_2
+    3300006: poilar
+    3300008: poilar_2
+    3300010: poilar_small_1
+    3300012: Sphere
+    3300014: Sphere_2
+    3300016: wall
+    3300018: wall_2
+    4300000: door_5_2
+    4300002: door_4
+    4300004: door
+    4300006: poilar_small_1
+    4300008: door_2
+    4300010: Sphere
+    4300012: wall
+    4300014: poilar
+    4300016: door_3
+    4300018: Sphere_2
+    4300020: wall_2
+    4300022: poilar_2
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+    13700000: door_2
+    13700002: door_3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

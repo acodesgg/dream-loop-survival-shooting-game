@@ -1,0 +1,132 @@
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\nunit.framework.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\UnityEditor.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\UnityEngine.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\UnityEngine.xml
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\UnityEditor.xml
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\nunit.framework.xml
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\obj\Debug\Assembly-CSharp.dll
+C:\Users\KAN KAUNG AUNG\Desktop\level3testing\obj\Debug\Assembly-CSharp.pdb
+E:\second year second term project\level3testing\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\second year second term project\level3testing\obj\Debug\Assembly-CSharp.dll
+E:\second year second term project\level3testing\obj\Debug\Assembly-CSharp.pdb
+E:\second year second term project\level3testing\Temp\bin\Debug\Assembly-CSharp.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\second year second term project\level3testing\Temp\bin\Debug\nunit.framework.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\UnityEditor.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\UnityEngine.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\UnityEngine.UI.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\Mono.Cecil.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\Unity.DataContract.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\ExCSS.Unity.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\Unity.CecilTools.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\second year second term project\level3testing\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\second year second term project\level3testing\Temp\bin\Debug\UnityEngine.xml
+E:\second year second term project\level3testing\Temp\bin\Debug\UnityEditor.xml
+E:\second year second term project\level3testing\Temp\bin\Debug\UnityEngine.UI.xml
+E:\second year second term project\level3testing\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\second year second term project\level3testing\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\second year second term project\level3testing\Temp\bin\Debug\nunit.framework.xml
+E:\second year second term project\level3testing\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\second year second term project\level3testing\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\second year second term project\level3testing\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\nunit.framework.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\UnityEditor.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\UnityEngine.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\UnityEngine.xml
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\UnityEditor.xml
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\nunit.framework.xml
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\obj\Debug\Assembly-CSharp.dll
+C:\Users\kankaungaung\Desktop\akm folder\level3testing\obj\Debug\Assembly-CSharp.pdb
+E:\level3testing\Temp\bin\Debug\Assembly-CSharp.dll
+E:\level3testing\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\level3testing\Temp\bin\Debug\nunit.framework.dll
+E:\level3testing\Temp\bin\Debug\UnityEditor.dll
+E:\level3testing\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\level3testing\Temp\bin\Debug\UnityEngine.dll
+E:\level3testing\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\level3testing\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\level3testing\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\level3testing\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\level3testing\Temp\bin\Debug\UnityEngine.UI.dll
+E:\level3testing\Temp\bin\Debug\Mono.Cecil.dll
+E:\level3testing\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\level3testing\Temp\bin\Debug\Unity.DataContract.dll
+E:\level3testing\Temp\bin\Debug\ExCSS.Unity.dll
+E:\level3testing\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\level3testing\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\level3testing\Temp\bin\Debug\Unity.CecilTools.dll
+E:\level3testing\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\level3testing\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\level3testing\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\level3testing\Temp\bin\Debug\UnityEngine.xml
+E:\level3testing\Temp\bin\Debug\UnityEditor.xml
+E:\level3testing\Temp\bin\Debug\UnityEngine.UI.xml
+E:\level3testing\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\level3testing\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\level3testing\Temp\bin\Debug\nunit.framework.xml
+E:\level3testing\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\level3testing\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\level3testing\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\level3testing\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\level3testing\obj\Debug\Assembly-CSharp.dll
+E:\level3testing\obj\Debug\Assembly-CSharp.pdb

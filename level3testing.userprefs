@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\s . s\Scripts\Managers\EnemyManager.cs">
+    <Files>
+      <File FileName="Assets\s . s\_Complete-Game\Scripts\Enemy\EnemyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\zombiegirlMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\s . s\Scripts\Enemy\cone.cs" Line="1" Column="1" />
+      <File FileName="Assets\s . s\PostProcessing\Editor\PostProcessingBehaviourEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets\s . s\_Complete-Game\Scripts\Player\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\s . s\Scripts\Enemy\EnemyMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\s . s\Scripts\Player\PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\s . s\Scripts\Enemy\EnemyAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\s . s\_Complete-Game\Scripts\Player\PlayerShooting.cs" Line="1" Column="1" />
+      <File FileName="Assets\s . s\Scripts\Managers\doorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\winCondition.cs" Line="5" Column="1" />
+      <File FileName="Assets\pop.cs" Line="21" Column="1" />
+      <File FileName="Assets\weaponselected.cs" Line="1" Column="1" />
+      <File FileName="Assets\s . s\_Complete-Game\Scripts\Managers\ScoreManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\s . s\_Complete-Game\Scripts\Player\PlayerHealth.cs" Line="70" Column="1" />
+      <File FileName="Assets\s . s\Scripts\Managers\EnemyManager.cs" Line="42" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

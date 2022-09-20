@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 3f4979c37a388ff4bb288596f4fd1c89
+timeCreated: 1531065832
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: Bone005
+    100010: Bone006
+    100012: Bone007
+    100014: Bone008
+    100016: Bone009
+    100018: Bone013
+    100020: Bone014
+    100022: Bone015
+    100024: Bone016
+    100026: Bone017
+    100028: Bone018
+    100030: Bone019
+    100032: Bone020
+    100034: Bone021
+    100036: Bone022
+    100038: Bone023
+    100040: Bone024
+    100042: Bone025
+    100044: Bone026
+    100046: brazo_deracho001
+    100048: brazo_deracho002
+    100050: brazo_deracho003
+    100052: brazo_isquierdo001
+    100054: brazo_isquierdo002
+    100056: brazo_isquierdo003
+    100058: cabeza
+    100060: columna001
+    100062: columna002
+    100064: columna003
+    100066: columna004
+    100068: columna005
+    100070: columna006
+    100072: cuerpo
+    100074: lantern:lantern_base
+    100076: manos
+    100078: Null.2
+    100080: Null.3
+    100082: Null.3.2
+    100084: Null.4
+    100086: Null.4.2
+    100088: Null.5
+    100090: Null.5.2
+    100092: Null.6
+    100094: ojo001
+    100096: ojo002
+    100098: ojos
+    100100: //RootNode
+    100102: P_derecha001
+    100104: P_derecha002
+    100106: P_derecha003
+    100108: P_isquierda001
+    100110: P_isquierda002
+    100112: P_isquierda003
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: Bone005
+    400010: Bone006
+    400012: Bone007
+    400014: Bone008
+    400016: Bone009
+    400018: Bone013
+    400020: Bone014
+    400022: Bone015
+    400024: Bone016
+    400026: Bone017
+    400028: Bone018
+    400030: Bone019
+    400032: Bone020
+    400034: Bone021
+    400036: Bone022
+    400038: Bone023
+    400040: Bone024
+    400042: Bone025
+    400044: Bone026
+    400046: brazo_deracho001
+    400048: brazo_deracho002
+    400050: brazo_deracho003
+    400052: brazo_isquierdo001
+    400054: brazo_isquierdo002
+    400056: brazo_isquierdo003
+    400058: cabeza
+    400060: columna001
+    400062: columna002
+    400064: columna003
+    400066: columna004
+    400068: columna005
+    400070: columna006
+    400072: cuerpo
+    400074: lantern:lantern_base
+    400076: manos
+    400078: Null.2
+    400080: Null.3
+    400082: Null.3.2
+    400084: Null.4
+    400086: Null.4.2
+    400088: Null.5
+    400090: Null.5.2
+    400092: Null.6
+    400094: ojo001
+    400096: ojo002
+    400098: ojos
+    400100: //RootNode
+    400102: P_derecha001
+    400104: P_derecha002
+    400106: P_derecha003
+    400108: P_isquierda001
+    400110: P_isquierda002
+    400112: P_isquierda003
+    2300000: lantern:lantern_base
+    3300000: lantern:lantern_base
+    4300000: cabeza
+    4300002: ojos
+    4300004: manos
+    4300006: cuerpo
+    4300008: lantern:lantern_base
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    13700000: cabeza
+    13700002: cuerpo
+    13700004: manos
+    13700006: ojos
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

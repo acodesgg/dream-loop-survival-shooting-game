@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: ac74f511ea4da8f48ba03eb8099ffc73
+timeCreated: 1530123755
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: 1
+    100002: 1.2
+    100004: Bend
+    100006: Boole
+    100008: Cap 1
+    100010: Cap 1.10
+    100012: Cap 1.11
+    100014: Cap 1.12
+    100016: Cap 1.13
+    100018: Cap 1.14
+    100020: Cap 1.15
+    100022: Cap 1.16
+    100024: Cap 1.2
+    100026: Cap 1.3
+    100028: Cap 1.4
+    100030: Cap 1.5
+    100032: Cap 1.6
+    100034: Cap 1.7
+    100036: Cap 1.8
+    100038: Cap 1.9
+    100040: Cap 2
+    100042: Cap 2.10
+    100044: Cap 2.11
+    100046: Cap 2.12
+    100048: Cap 2.13
+    100050: Cap 2.14
+    100052: Cap 2.15
+    100054: Cap 2.16
+    100056: Cap 2.2
+    100058: Cap 2.3
+    100060: Cap 2.4
+    100062: Cap 2.5
+    100064: Cap 2.6
+    100066: Cap 2.7
+    100068: Cap 2.8
+    100070: Cap 2.9
+    100072: Cube
+    100074: Cube.2
+    100076: Cube.3
+    100078: e
+    100080: e.2
+    100082: h
+    100084: I
+    100086: i
+    100088: In
+    100090: J
+    100092: John
+    100094: L
+    100096: l
+    100098: Landscape
+    100100: Light
+    100102: Little
+    100104: MoText
+    100106: MoText.2
+    100108: MoText.3
+    100110: MoText.4
+    100112: n
+    100114: n.2
+    100116: o
+    100118: R
+    100120: Rest
+    100122: s
+    100124: //RootNode
+    100126: t
+    100128: t.2
+    100130: t.3
+    100132: Text
+    400000: 1
+    400002: 1.2
+    400004: Bend
+    400006: Boole
+    400008: Cap 1
+    400010: Cap 1.10
+    400012: Cap 1.11
+    400014: Cap 1.12
+    400016: Cap 1.13
+    400018: Cap 1.14
+    400020: Cap 1.15
+    400022: Cap 1.16
+    400024: Cap 1.2
+    400026: Cap 1.3
+    400028: Cap 1.4
+    400030: Cap 1.5
+    400032: Cap 1.6
+    400034: Cap 1.7
+    400036: Cap 1.8
+    400038: Cap 1.9
+    400040: Cap 2
+    400042: Cap 2.10
+    400044: Cap 2.11
+    400046: Cap 2.12
+    400048: Cap 2.13
+    400050: Cap 2.14
+    400052: Cap 2.15
+    400054: Cap 2.16
+    400056: Cap 2.2
+    400058: Cap 2.3
+    400060: Cap 2.4
+    400062: Cap 2.5
+    400064: Cap 2.6
+    400066: Cap 2.7
+    400068: Cap 2.8
+    400070: Cap 2.9
+    400072: Cube
+    400074: Cube.2
+    400076: Cube.3
+    400078: e
+    400080: e.2
+    400082: h
+    400084: I
+    400086: i
+    400088: In
+    400090: J
+    400092: John
+    400094: L
+    400096: l
+    400098: Landscape
+    400100: Light
+    400102: Little
+    400104: MoText
+    400106: MoText.2
+    400108: MoText.3
+    400110: MoText.4
+    400112: n
+    400114: n.2
+    400116: o
+    400118: R
+    400120: Rest
+    400122: s
+    400124: //RootNode
+    400126: t
+    400128: t.2
+    400130: t.3
+    400132: Text
+    2300000: Cap 2
+    2300002: Cap 2.10
+    2300004: Cap 2.11
+    2300006: Cap 2.12
+    2300008: Cap 2.13
+    2300010: Cap 2.14
+    2300012: Cap 2.15
+    2300014: Cap 2.16
+    2300016: Cap 2.2
+    2300018: Cap 2.3
+    2300020: Cap 2.4
+    2300022: Cap 2.5
+    2300024: Cap 2.6
+    2300026: Cap 2.7
+    2300028: Cap 2.8
+    2300030: Cap 2.9
+    2300032: Cube
+    2300034: Cube.3
+    2300036: e
+    2300038: e.2
+    2300040: h
+    2300042: I
+    2300044: i
+    2300046: J
+    2300048: L
+    2300050: l
+    2300052: Landscape
+    2300054: n
+    2300056: n.2
+    2300058: o
+    2300060: R
+    2300062: s
+    2300064: t
+    2300066: t.2
+    2300068: t.3
+    3300000: Cap 2
+    3300002: Cap 2.10
+    3300004: Cap 2.11
+    3300006: Cap 2.12
+    3300008: Cap 2.13
+    3300010: Cap 2.14
+    3300012: Cap 2.15
+    3300014: Cap 2.16
+    3300016: Cap 2.2
+    3300018: Cap 2.3
+    3300020: Cap 2.4
+    3300022: Cap 2.5
+    3300024: Cap 2.6
+    3300026: Cap 2.7
+    3300028: Cap 2.8
+    3300030: Cap 2.9
+    3300032: Cube
+    3300034: Cube.3
+    3300036: e
+    3300038: e.2
+    3300040: h
+    3300042: I
+    3300044: i
+    3300046: J
+    3300048: L
+    3300050: l
+    3300052: Landscape
+    3300054: n
+    3300056: n.2
+    3300058: o
+    3300060: R
+    3300062: s
+    3300064: t
+    3300066: t.2
+    3300068: t.3
+    4300000: Landscape
+    4300002: Cube
+    4300004: J
+    4300006: Cap 2
+    4300008: o
+    4300010: Cap 2.2
+    4300012: h
+    4300014: Cap 2.3
+    4300016: n
+    4300018: Cap 2.4
+    4300020: L
+    4300022: Cap 2.5
+    4300024: i
+    4300026: Cap 2.6
+    4300028: t
+    4300030: Cap 2.7
+    4300032: t.2
+    4300034: Cap 2.8
+    4300036: l
+    4300038: Cap 2.9
+    4300040: e
+    4300042: Cap 2.10
+    4300044: R
+    4300046: Cap 2.11
+    4300048: e.2
+    4300050: Cap 2.12
+    4300052: s
+    4300054: Cap 2.13
+    4300056: t.3
+    4300058: Cap 2.14
+    4300060: I
+    4300062: Cap 2.15
+    4300064: n.2
+    4300066: Cap 2.16
+    4300068: Cube.3
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    10800000: Light
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
